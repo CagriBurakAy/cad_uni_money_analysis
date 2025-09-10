@@ -22,7 +22,8 @@ python app.py
 Then open your browser and go to http://127.0.0.1:8050
 
 🌐 Live Dashboard
-You can explore the hosted version of the dashboard here: https://825e8672-56a9-4c11-b133-817ddb2191fb.plotly.app/
+You can explore the hosted version of the dashboard here: 
+https://825e8672-56a9-4c11-b133-817ddb2191fb.plotly.app/
 
 📊 Data Source
 This dashboard is powered by publicly available financial data from the Financial Information of Universities and Colleges (FIUC) – CAUBO. The FIUC is a joint publication by CAUBO and Statistics Canada, offering consistent and comparable financial data across Canadian universities and colleges. Link: https://www.caubo.ca/knowledge-centre/analytics-and-reports/fiuc-reports/#squelch-taas-accordion-shortcode-content-4
