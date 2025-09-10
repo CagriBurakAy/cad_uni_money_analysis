@@ -28,6 +28,9 @@ You can explore the hosted version of the dashboard here: https://825e8672-56a9-
 This dashboard is powered by publicly available financial data from the Financial Information of Universities and Colleges (FIUC) – CAUBO. The FIUC is a joint publication by CAUBO and Statistics Canada, offering consistent and comparable financial data across Canadian universities and colleges. Link: https://www.caubo.ca/knowledge-centre/analytics-and-reports/fiuc-reports/#squelch-taas-accordion-shortcode-content-4
 
 It includes:
+
 Income and expenditure by fund, type, province, and institution
+
 Trends in net assets and operating costs
+
 Annual reports from 2001 to 2023
